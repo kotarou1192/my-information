@@ -87,6 +87,7 @@ password: guest-password
 - ruby
   - ruby on rails
   - capistrano
+  - sidekiq (redisを用いた非同期処理)
 - redis
 - nginx
 - postgreSQL
